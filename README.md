@@ -1,5 +1,5 @@
 # MegaOth
-[ENG] Bash - application for working with cloud storage mega.nz
+Bash - application for working with cloud storage `mega.nz`
 
 ## Usage:
 
